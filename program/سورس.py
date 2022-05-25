@@ -58,7 +58,7 @@ async def alive(client: Client, message: Message):
             [
                 InlineKeyboardButton("✨ كروب الدعم", url=f"https://t.me/{GROUP_SUPPORT}"),
                 InlineKeyboardButton(
-                    "↬ 𝙹𝙴𝙿𝚃𝙷𝙾𝙽 𝙰𝚁𝙰𝙱 ⟊", url=f"https://t.me/{UPDATES_CHANNEL}"
+                    "قناة السورس", url=f"https://t.me/{UPDATES_CHANNEL}"
                 ),
             ]
         ]
