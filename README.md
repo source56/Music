@@ -1,4 +1,4 @@
-<h1 align="center"><b>كوبرا </b></h1>
+<h1 align="center"><b>Zero </b></h1>
 
 <p align="center">
     <br><b>يدعم تشغيل الموسيقي والفديو داخل المحادثات الصوتية</b><br>
@@ -12,7 +12,7 @@
 
 ## 🎭 حقوق السورس
 <p align="center">
-  <img src="https://telegra.ph/file/e68855e3be3191ca84624.jpg">
+  <img src="https://te.legra.ph/file/7c0c9f7e6ecb2d62e5e2c.jpg">
 </p>
 
 ## ✨ المميزات
